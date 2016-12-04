@@ -1,3 +1,7 @@
+# This code has been moved to the official CakePHP Organization
+
+**[Follow this link](php/authentication)** and [read this article](http://florian-kraemer.net/2016/12/cakephp-psr7-middleware-authentication/) as well.
+
 # CakePHP Middleware Authentication
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.txt)
